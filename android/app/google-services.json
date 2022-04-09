@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100305825347",
+    "project_id": "push-notification-ff9bc",
+    "storage_bucket": "push-notification-ff9bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100305825347:android:f090319e82ac1225dbaef6",
+        "android_client_info": {
+          "package_name": "com.example.schedule_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100305825347-16mjio0pvcdsj26e38ft5qhc3a6nka7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdocLW8Y2JIOcUUTbIBLzmROToA_MpFXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100305825347-16mjio0pvcdsj26e38ft5qhc3a6nka7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
